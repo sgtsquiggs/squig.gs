@@ -20,10 +20,10 @@ ignoreFiles = [ "\\.scss$", "\\.map$" ]
   icon = "github"
   link = "https://github.com/sgtsquiggs/"
 
-# [[params.social]]
-#   medium = "Resume"
-#   icon = "file-text-o"
-#   link = "#"
+[[params.social]]
+  medium = "Resume"
+  icon = "file-text-o"
+  link = "resume.pdf"
 
 [[params.social]]
   medium = "Email"
