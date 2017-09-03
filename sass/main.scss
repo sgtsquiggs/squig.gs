@@ -31,8 +31,8 @@
 		}
 
 		#bg {
-			background-size: $width auto;
-			width: ($width * 3);
+			background-size: 100% auto;
+			width: 100%;
 		}
 	}
 
@@ -114,7 +114,7 @@
 		/* Set your background with this */
 		background: _misc(bg);
 
-		background-repeat: repeat-x;
+		background-repeat: no-repeat;
 		height: 100%;
 		left: 0;
 		opacity: 1;
