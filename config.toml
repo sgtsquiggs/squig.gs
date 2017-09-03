@@ -1,0 +1,31 @@
+title = "Matthew Crenshaw"
+baseurl = "https://squig.gs/"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+ignoreFiles = [ "\\.scss$", "\\.map$" ]
+
+[params]
+  name = "Matthew Crenshaw"
+  about = "Full Stack Mobile Developer &nbsp;&bull;&nbsp; New York, NY"
+  copyright = "Matthew Crenshaw"
+  bg_scroll = "disabled"
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Instagram"
+  icon = "instagram"
+  link = "https://instagram.com/sgtsquiggs/"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/sgtsquiggs/"
+
+# [[params.social]]
+#   medium = "Resume"
+#   icon = "file-text-o"
+#   link = "#"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:matthew@squig.gs"
